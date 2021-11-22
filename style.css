@@ -1,0 +1,21 @@
+body{
+   background-color:darkseagreen;
+}
+.heading{
+    font-size:30px;
+    font-family: 'Road Rage', cursive;
+    color:blanchedalmond;
+}
+.heading2{
+    font-size:35px;
+    font-family: 'Patrick Hand', cursive;
+    color:black
+}
+.googlelenslogo{
+    border: solid 6px crimson;
+}
+.test_image_and_result{
+    font-family: 'Fredoka One', cursive;
+    font-size:40px;
+    color:fuchsia;
+}
